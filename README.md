@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Teach Your Kids Electronics (IoT Education)
-
-- Course: Teach Your Kids Electronics
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/electronics-for-kids/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Introduce kids to safe, fun electronics with simple LED activities and clear steps.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and inspire the next generation of makers.
